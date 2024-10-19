@@ -9,7 +9,6 @@
 export REGION=
 ```
 ```
-
 #!/bin/bash
 # Define color variables
 
