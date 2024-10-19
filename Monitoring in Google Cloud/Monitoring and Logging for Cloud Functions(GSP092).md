@@ -3,7 +3,7 @@
 
 ### Run the following Commands in CloudShell
 
-
+### From "Task 1" you can find your REGION,
 
 ```
 export REGION=
