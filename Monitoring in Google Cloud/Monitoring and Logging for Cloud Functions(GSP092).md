@@ -110,6 +110,14 @@ echo "${CYAN}${BOLD}With Regards Himadri${RESET}"
 #-----------------------------------------------------end----------------------------------------------------------#
 ```
 
+* Note ***If you are still facing problems in `Task 1`, then go through with following these steps.***
+  
+  1. First Search `Cloud Run Functions` in the `Cloud Console` > Open `Cloud Run Functions`
+  2. `Delete` the Function, named `helloWorld`
+  3. Click `CREATE FUNCTION` > Function name `helloWorld` > Select your Region > Check once your Trigger Type is `HTTP` > In Authentication `Allow unauthenticated invocations` > Save
+  4. Expand `Runtime, build, connections and security settings` > In Autoscaling `Maximum number of instances` set it to `5` > Next > Deploy
+
+
 # Congratulations 🎉 for completing the Challenge Lab !
 
 ##### *You Have Successfully Demonstrated Your Skills And Determination.*
