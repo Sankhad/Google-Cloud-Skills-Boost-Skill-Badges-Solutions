@@ -1,4 +1,4 @@
-Gmail: Getting Started || [GSP465](https://www.cloudskillsboost.google/course_templates/676/labs/476311)
+# Gmail: Getting Started || [GSP465](https://www.cloudskillsboost.google/course_templates/676/labs/476311)
 
 ### 1. Login > Compose > your Username in `To` > Subject `Test` > Atrach any image > Send
 
