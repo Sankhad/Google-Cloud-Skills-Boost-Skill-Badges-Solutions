@@ -10,7 +10,7 @@
 
 ### 5. Click Filters of the search Bar > from: `gmail` > Create Filter > Checkbox: `Skip the Inbox (Archive it)` > Create Filter
 
-###6. Goto Homepage by Clicking Gmail Icon > search `gmail` > star them both > hover on the first mail > click Clock icon > choose your second opton > checkbox of the first mail > click Labels icon > select `Gmail Team` & `Tips` > Apply > then click `Move to inbox` Icon
+### 6. Goto Homepage by Clicking Gmail Icon > search `gmail` > star them both > hover on the first mail > click Clock icon > choose your second opton > checkbox of the first mail > click Labels icon > select `Gmail Team` & `Tips` > Apply > then click `Move to inbox` Icon
 
 # Congratulations 🎉 for completing the Lab !
 
