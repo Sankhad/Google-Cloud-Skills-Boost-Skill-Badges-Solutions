@@ -8,6 +8,13 @@ gcloud compute ssh lab-vm --project=$DEVSHELL_PROJECT_ID --zone=$ZONE --quiet
 ```
 
 ### Go to `Credentials` from [here](https://console.cloud.google.com/apis/credentials)
+### Go to `Create Credentials` > API key > Your API key
+### `task_2_file_name` you find it in TASK 2 > .4
+### `task_3_request_file` & `task_3_response_file` you find it in TASK 3 > .3
+### `task_4_sentence` you find it in TASK 4 > .2
+### `task_4_file` you find it in TASK 4 > .2
+### `task_5_sentence` you find it in TASK 5 > .2
+### `task_5_file` you find it in TASK 5 > .2
 
 ```
 export API_KEY=
