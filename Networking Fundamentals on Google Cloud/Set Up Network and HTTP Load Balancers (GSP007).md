@@ -2,7 +2,7 @@
 
 ### Run the following Commands in CloudShell
 
-### From "Task 1" you can find your REGION,
+### From "Task 1" > .2 you can find your Zone,
 ```
 export ZONE=
 ```
