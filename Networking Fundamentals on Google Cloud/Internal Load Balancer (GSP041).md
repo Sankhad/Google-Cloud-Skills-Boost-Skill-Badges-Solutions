@@ -2,6 +2,9 @@
 
 ### Run the following Commands in CloudShell
 
+### From "Setup and requirements" > Set the region and zone > 3. you can find your Zone,
+### From "Task 3" > 4. you can find your STATIC_IP,
+
 ```
 export ZONE=
 export STATIC_IP=
