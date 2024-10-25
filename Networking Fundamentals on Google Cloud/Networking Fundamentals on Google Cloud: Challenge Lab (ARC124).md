@@ -2,6 +2,9 @@
 
 
 ### Run the following Commands in CloudShell
+
+### From "Challenge scenario" you can find your ZONE,
+
 ```
 export ZONE=
 ```
